@@ -1,5 +1,5 @@
-# Google-Camera-Modified-Versions.
-Google camera porting for pixel and non-pixel devices.
+# Google-Camera-Modified-Versions
+#Google camera porting for pixel and non-pixel devices.
 
 #Based on Google Camera 8.3
 
